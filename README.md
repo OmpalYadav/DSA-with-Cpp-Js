@@ -52,16 +52,19 @@ I actively update this log to document what I’m learning and practicing.
 
 ## 📂 Folder Structure
 
+```bash
 DSA-with-Cpp-and-JavaScript/
 ├── C++/
-│ ├── Basics/
-│ ├── Loops/
-│ ├── Arrays/
-│ └── Patterns/
+│   ├── Basics/
+│   ├── Loops/
+│   ├── Arrays/
+│   └── Patterns/
 ├── JavaScript/
-│ ├── Strings/
-│ └── Arrays/
-├── README.md
+│   ├── Strings/
+│   └── Arrays/
+└── README.md
+```
+
 
 
 ---
