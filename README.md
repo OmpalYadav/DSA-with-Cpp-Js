@@ -16,6 +16,7 @@ I actively update this log to document what I’m learning and practicing.
 | 2   | Loops & Control Statements | C++          | ✅ Completed |
 | 3   | 20+ Practice Questions     | C++          | ✅ Completed |
 | 4   | Pattern Printing           | C++          | ✅ Completed |
+| 4   | Pattern Practice Question  | C++          | 🔜 Upcoming  |
 | 5   | Functions                  | C++          | 🔜 Upcoming  |
 | 6   | Arrays                     | C++          | 🔜 Upcoming  |
 | 7   | Strings                    | JavaScript   | 🔜 Upcoming  |
