@@ -1,21 +1,21 @@
 #include<iostream>
 using namespace std;
 
-// Triangle_Pattern For Number Using While Loop
+// Triangle_Pattern For Character Using While Loop
 
 int main(){
     int n;
     cin>>n;
-
     int i=1;
+    
     while (i<=n) //Outer Loop
-    {
+    {   
         int j=1;
-        int value=i;
-        while (j<=i) //Inner loop 
+        char ch='A'+n-i;
+        while (j<=i) //Inner loop
         {
-            cout<<value<<" "; // We can also solve this method i+(j-1):
-            value++;
+            cout<<ch<<" ";
+            ch++;
             j++;
         }
         cout<<endl;
@@ -25,8 +25,8 @@ int main(){
 }
 /*
 Input:4
-1 
-2 3
-3 4 5
-4 5 6 7
+D 
+C D
+B C D
+A B C D
 */

@@ -1,32 +1,33 @@
 #include<iostream>
 using namespace std;
 
-// Triangle_Pattern For Character Using While Loop
-
 int main(){
     int n;
     cin>>n;
 
-    int i=1;
-    while (i<=n) //Outer Loop
-    {
+    int i=0;
+    int back= n*n;
+    char ch='A'+back-1;
+   
+    while (i<n)
+    {   
         int j=1;
-        char ch='A'+i-j;
-        while (j<=i) //Inner loop
+        while (j<=n)
         {   
             cout<<ch<<" ";
-            ch++;
+            ch--;
             j++;
         }
         cout<<endl;
         i++;
     }
+
     return 0;
 }
 /*
 Input:4
-A 
-B C
-C D E
-D E F G
+P O N M 
+L K J I
+H G F E
+D C B A
 */

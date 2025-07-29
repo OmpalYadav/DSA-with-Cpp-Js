@@ -11,7 +11,6 @@ int main(){
     {       char ch='A';
         for (int j = 1; j<=n; j++) // Inner loop prints numbers from 1 to n in each row
         {
-
             cout<<ch<<" ";
             ch++;
         }
