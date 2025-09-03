@@ -1,8 +1,5 @@
 #include <iostream>
-#include <cmath>  // for pow()
 using namespace std;
-
-
 //A number is called an Armstrong number if the sum of cubes of its digits is equal to the number itself. (For 3-digit numbers)
 
 int main() {
@@ -15,7 +12,7 @@ int main() {
 
     while (n > 0) {
         int digit = n % 10;
-        sum += pow(digit, 3);  // cube of digit
+        sum += digit * digit * digit;  // cube without pow()
         n = n / 10;
     }
 
@@ -27,3 +24,10 @@ int main() {
 
     return 0;
 }
+
+/*
+153
+123
+
+
+*/

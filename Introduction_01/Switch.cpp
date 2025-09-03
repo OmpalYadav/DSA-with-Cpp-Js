@@ -8,7 +8,8 @@ using namespace std;
 
 int main(){
 
-  int day = 4;
+  int day;
+  cin>>day;
   switch (day) {
   case 1:
     cout << "Monday";
