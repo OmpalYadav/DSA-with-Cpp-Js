@@ -1,25 +1,23 @@
----
-
 # 🚀 DSA with C++ & JavaScript
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Consistency+%2B+Code+%3D+Growth;🚀+DSA+in+C%2B%2B+%26+JavaScript;🎯+Logic+Building+Daily;🔥+Becoming+Interview+Ready" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=💻+Consistency+%2B+Code+%3D+Growth;🚀+DSA+in+C%2B%2B+%26+JavaScript;🎯+Logic+Building+Daily;🔥+Becoming+Interview+Ready" alt="Typing Animation" />
   </a>
 </p>  
 
 ---
 
-## 📖 About This Repo
+## 📖 About This Repo  
 
-This repository is not just a bunch of code files — it’s my **daily DSA grind**, a **learning journal**, and a step-by-step roadmap towards becoming a **product-ready developer**.
+This repository is not just a bunch of code files — it’s my **daily DSA grind**, a **learning journal**, and a roadmap towards becoming a **product-ready developer**.  
 
-Here, I practice **C++** for competitive depth and **JavaScript** for practical coding skills.
-Every day = new concepts, new problems, and consistent progress.
+Here, I practice **C++** for competitive depth and **JavaScript** for practical coding skills.  
+Every day = new concepts, new problems, and consistent progress.  
 
 ---
 
-## 📅 Daily Progress Log
+## 📅 Daily Progress Log  
 
 | Day | Topic                      | Language   | Status      |
 | --- | -------------------------- | ---------- | ----------- |
@@ -27,34 +25,35 @@ Every day = new concepts, new problems, and consistent progress.
 | 2   | Loops & Control Statements | C++        | ✅ Completed |
 | 3   | 20+ Practice Questions     | C++        | ✅ Completed |
 | 4   | Pattern Printing           | C++        | ✅ Completed |
+| 4   | Pattern Practice Question  | C++        | 🔜 Upcoming |
 | 5   | Functions                  | C++        | 🔜 Upcoming |
 | 6   | Arrays                     | C++        | 🔜 Upcoming |
 | 7   | Strings                    | JavaScript | 🔜 Upcoming |
 
-⚡ *Log gets updated daily — track my journey here!*
+⚡ *Log gets updated daily — track my journey here!*  
 
 ---
 
-## 🌟 Why This Repo?
+## 🌟 Why This Repo?  
 
-✔️ Build a **rock-solid DSA foundation**
-✔️ Practice both **low-level** (C++) & **high-level** (JavaScript) thinking
-✔️ Improve **problem-solving speed** & **logical clarity**
-✔️ Stay consistent with **daily commits**
-✔️ Showcase a **transparent learning journey** for recruiters & peers
-
----
-
-## 🔥 Repo Highlights
-
-* 🚀 Solved **20+ problems in a single day**
-* 🎯 Covered **patterns, loops, arrays, strings & more**
-* 🧠 Focused on **logic, time complexity & clean solutions**
-* 📂 Structured folders for clarity and scalability
+✔️ Build a **rock-solid DSA foundation**  
+✔️ Practice both **low-level (C++)** & **high-level (JavaScript)** thinking  
+✔️ Improve **problem-solving speed** & **logical clarity**  
+✔️ Stay consistent with **daily commits**  
+✔️ Showcase a **transparent learning journey** for recruiters & peers  
 
 ---
 
-## 📂 Folder Structure
+## 🔥 Repo Highlights  
+
+- 🚀 Solved **20+ problems in a single day**  
+- 🎯 Covered **patterns, loops, arrays, strings & more**  
+- 🧠 Focused on **logic, time complexity & clean solutions**  
+- 📂 Structured folders for clarity and scalability  
+
+---
+
+## 📂 Folder Structure  
 
 ```bash
 DSA-with-Cpp-and-JavaScript/
@@ -68,7 +67,7 @@ DSA-with-Cpp-and-JavaScript/
 │   ├── Strings/
 │   └── Arrays/
 └── README.md
-```
+````
 
 > 🔗 Each folder has its own **README** with explanations + practice logs.
 > 👉 Example: [Patterns\_02 →](./C++/Patterns)
@@ -77,7 +76,7 @@ DSA-with-Cpp-and-JavaScript/
 
 ## 🙋‍♂️ About Me
 
-I’m Ompal Yadav — a **BCA final-year student (2025)**, passionate about solving problems and building a career as a **software developer**.
+I’m **Ompal Yadav** — passionate about solving problems and building a career as a **software developer**.
 This repo is my **commitment to growth**, and my way of saying:
 
 > *“No shortcuts, only consistency, effort & real code.”*
@@ -86,17 +85,36 @@ This repo is my **commitment to growth**, and my way of saying:
 
 ## 🤝 Let’s Connect
 
-* 📧 Email: [ompalyadav.dev@gmail.com](mailto:ompalyadav2235@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/OmpalYadav-dev](https://linkedin.com/in/OmpalYadav22)
-* 🔗 GitHub: [@OmpalYadav](https://github.com/OmpalYadav)
+<p align="center">
+  <a href="mailto:ompalyadav.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/OmpalYadav-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/OmpalYadav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmpalYadav&theme=tokyonight" alt="Streak Stats" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmpalYadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmpalYadav&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>  
 
 ---
 
 ## 🚨 Note to Recruiters / Developers
 
-If you’re reading this — thanks for stopping by!
+Thanks for visiting! 👋
 This repo reflects my **hands-on learning**, **interview prep**, and **daily coding discipline**.
 
 Let’s **learn, grow, and build together** — one commit at a time. 🔥
 
----
+```
+
