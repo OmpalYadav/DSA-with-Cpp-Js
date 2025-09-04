@@ -1,53 +1,56 @@
+---
+
 # 🚀 DSA with C++ & JavaScript
 
-Welcome to my **Daily DSA Practice Repository**, where I’m sharpening my problem-solving skills by mastering **Data Structures and Algorithms** using **C++** and **JavaScript**.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Consistency+%2B+Code+%3D+Growth;🚀+DSA+in+C%2B%2B+%26+JavaScript;🎯+Logic+Building+Daily;🔥+Becoming+Interview+Ready" alt="Typing Animation" />
+  </a>
+</p>  
 
-This repository isn’t just code — it’s a **daily grind**, a **learning journal**, and a reflection of my commitment to becoming a top-tier developer.
+---
+
+## 📖 About This Repo
+
+This repository is not just a bunch of code files — it’s my **daily DSA grind**, a **learning journal**, and a step-by-step roadmap towards becoming a **product-ready developer**.
+
+Here, I practice **C++** for competitive depth and **JavaScript** for practical coding skills.
+Every day = new concepts, new problems, and consistent progress.
 
 ---
 
 ## 📅 Daily Progress Log
 
-I actively update this log to document what I’m learning and practicing.
+| Day | Topic                      | Language   | Status      |
+| --- | -------------------------- | ---------- | ----------- |
+| 1   | C++ Basics                 | C++        | ✅ Completed |
+| 2   | Loops & Control Statements | C++        | ✅ Completed |
+| 3   | 20+ Practice Questions     | C++        | ✅ Completed |
+| 4   | Pattern Printing           | C++        | ✅ Completed |
+| 5   | Functions                  | C++        | 🔜 Upcoming |
+| 6   | Arrays                     | C++        | 🔜 Upcoming |
+| 7   | Strings                    | JavaScript | 🔜 Upcoming |
 
-| Day | Topic                      | Language     | Status       |
-|-----|----------------------------|--------------|--------------|
-| 1   | C++ Basics                 | C++          | ✅ Completed |
-| 2   | Loops & Control Statements | C++          | ✅ Completed |
-| 3   | 20+ Practice Questions     | C++          | ✅ Completed |
-| 4   | Pattern Printing           | C++          | ✅ Completed |
-| 4   | Pattern Practice Question  | C++          | 🔜 Upcoming  |
-| 5   | Functions                  | C++          | 🔜 Upcoming  |
-| 6   | Arrays                     | C++          | 🔜 Upcoming  |
-| 7   | Strings                    | JavaScript   | 🔜 Upcoming  |
-
-> 💡 This table gets updated daily — stay tuned!
-
----
-
-## 💻 Languages Used
-
-- **C++** → For competitive programming & system-level understanding  
-- **JavaScript** → For real-world problem solving & browser-based challenges
+⚡ *Log gets updated daily — track my journey here!*
 
 ---
 
 ## 🌟 Why This Repo?
 
-✅ Build a rock-solid foundation in DSA  
-✅ Practice both **low-level** (C++) and **high-level** (JavaScript) problem-solving  
-✅ Improve **logical thinking**, **speed**, and **code readability**  
-✅ Stay consistent with **daily commits** and hands-on coding  
-✅ Document learning in a structured and honest way
+✔️ Build a **rock-solid DSA foundation**
+✔️ Practice both **low-level** (C++) & **high-level** (JavaScript) thinking
+✔️ Improve **problem-solving speed** & **logical clarity**
+✔️ Stay consistent with **daily commits**
+✔️ Showcase a **transparent learning journey** for recruiters & peers
 
 ---
 
-## 🔥 Highlights
+## 🔥 Repo Highlights
 
-- 🚀 Solved **20+ problems in a single day**
-- 💡 Applied logic to solve real challenges — not just theory
-- 📂 Maintained a clean folder structure by topic and language
-- 🧠 Focused on understanding patterns, time complexity & optimization
+* 🚀 Solved **20+ problems in a single day**
+* 🎯 Covered **patterns, loops, arrays, strings & more**
+* 🧠 Focused on **logic, time complexity & clean solutions**
+* 📂 Structured folders for clarity and scalability
 
 ---
 
@@ -58,38 +61,42 @@ DSA-with-Cpp-and-JavaScript/
 ├── C++/
 │   ├── Basics/
 │   ├── Loops/
+│   ├── Patterns/
 │   ├── Arrays/
-│   └── Patterns/
+│   └── Functions/
 ├── JavaScript/
 │   ├── Strings/
 │   └── Arrays/
 └── README.md
 ```
 
-
+> 🔗 Each folder has its own **README** with explanations + practice logs.
+> 👉 Example: [Patterns\_02 →](./C++/Patterns)
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I’m on a mission to become a **product-ready developer** by building a strong foundation in DSA, algorithms, and problem-solving skills.  
-This repository is a **proof of consistency** and **my roadmap to mastering tech interviews**.
+I’m Ompal Yadav — a **BCA final-year student (2025)**, passionate about solving problems and building a career as a **software developer**.
+This repo is my **commitment to growth**, and my way of saying:
 
-I don't believe in shortcuts — only in **daily effort**, real code, and continuous learning.
+> *“No shortcuts, only consistency, effort & real code.”*
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 📧 Email: [ompalyadav2235@gmail.com](mailto:ompalyadav2235@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/OmpalYadav22](https://linkedin.com/in/OmpalYadav22)  
-- 🔗 GitHub: [@OmpalYadav](https://github.com/OmpalYadav)
+* 📧 Email: [ompalyadav.dev@gmail.com](mailto:ompalyadav2235@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/OmpalYadav-dev](https://linkedin.com/in/OmpalYadav22)
+* 🔗 GitHub: [@OmpalYadav](https://github.com/OmpalYadav)
 
 ---
 
 ## 🚨 Note to Recruiters / Developers
 
-If you're reading this — thank you for stopping by!  
-I’m constantly learning and improving my DSA skills to prepare for **technical interviews**, **coding rounds**, and **real-world software challenges**.
+If you’re reading this — thanks for stopping by!
+This repo reflects my **hands-on learning**, **interview prep**, and **daily coding discipline**.
 
-Let’s **grow together** — one commit at a time. 💻🔥
+Let’s **learn, grow, and build together** — one commit at a time. 🔥
+
+---
