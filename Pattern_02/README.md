@@ -1,5 +1,3 @@
-Samajh gaya 👍 Tumhare **Pattern\_02 folder** ke liye ek **unique + animated + professional README** bana diya hai, jo Intro wale se match bhi kare aur apna alag highlight bhi ho 👇
-
 ---
 
 # 🎨 Pattern\_02 – DSA with C++
@@ -40,6 +38,3 @@ Here, I’ve solved **15–20 questions per topic**, covering **all levels — f
 ⚡ *Patterns are not just fun, they train your brain to think in logic. This folder is my playground of creativity + problem-solving.*
 
 ---
-
-Chaho toh main har folder ko **series style** bana du (Intro → Patterns → Functions → Arrays…) jisse recruiter ya koi bhi visitor ko ek **clear learning roadmap** mile.
-Bana du?
