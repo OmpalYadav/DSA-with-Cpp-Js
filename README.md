@@ -25,7 +25,6 @@ Every day = new concepts, new problems, and consistent progress.
 | 2   | Loops & Control Statements | C++        | ✅ Completed |
 | 3   | 20+ Practice Questions     | C++        | ✅ Completed |
 | 4   | Pattern Printing           | C++        | ✅ Completed |
-| 4   | Pattern Practice Question  | C++        | 🔜 Upcoming |
 | 5   | Functions                  | C++        | 🔜 Upcoming |
 | 6   | Arrays                     | C++        | 🔜 Upcoming |
 | 7   | Strings                    | JavaScript | 🔜 Upcoming |
@@ -95,17 +94,7 @@ This repo is my **commitment to growth**, and my way of saying:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmpalYadav&theme=tokyonight" alt="Streak Stats" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmpalYadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmpalYadav&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>  
+<p align="center"> <img src="https://streak-stats.demolab.com?user=OmpalYadav&theme=tokyonight&hide_border=true" alt="Streak Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OmpalYadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmpalYadav&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 
 ---
 
