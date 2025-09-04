@@ -1,8 +1,3 @@
-Bilkul ho sakta hai 👌 tum apne **README.md** me dusre folder ka link daal sakte ho, aur usko thoda **animated/unique style** me bhi likh sakte ho.
-Yeh ek short, clean, professional aur engaging version hai 👇
-
----
-
 # 📘 Introduction – DSA with C++
 
 <p align="center">
@@ -37,6 +32,3 @@ This is the **foundation step** of my DSA journey — focusing on **logic buildi
 ⚡ *Short, simple, but a solid base for upcoming topics!*
 
 ---
-
-Chaho toh main tumhare liye **sabhi folder ke README** ko ek chain jaisa bana dun — jisme har ek folder ke end me “Next Folder →” ka animated link ho.
-Kya main woh bana du?
