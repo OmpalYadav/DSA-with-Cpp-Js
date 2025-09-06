@@ -26,8 +26,8 @@ int main()
 }
 /*
 input: 4
-AAAA 
-BBB  
+AAAA
+BBB
 CC
 D
 */

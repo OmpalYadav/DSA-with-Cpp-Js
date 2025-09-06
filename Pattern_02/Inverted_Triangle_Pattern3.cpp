@@ -5,17 +5,17 @@ int main()
 {
     int n;
     cin >> n;
-    int num=1;
-    for (int i = 0; i <=n; i++)     // Outer loop to handle rows
+    int num = 1;
+    for (int i = 0; i <= n; i++) // Outer loop to handle rows
     {
-        for (int j = 0; j <= i; j++)         // Print spaces
+        for (int j = 0; j <= i; j++) // Print spaces
         {
             cout << " ";
         }
 
-        for (int j =1; j <=n - i; j++)         // Print numbers (repeat the number i times)
+        for (int j = 1; j <= n - i; j++) // Print numbers (repeat the number i times)
         {
-            cout <<num;
+            cout << num;
             num++;
         }
 

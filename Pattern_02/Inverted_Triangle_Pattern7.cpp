@@ -6,14 +6,14 @@ int main()
     int n;
     cin >> n;
 
-    for (int i = 0; i <=n; i++)     // Outer loop to handle rows
+    for (int i = 0; i <= n; i++) // Outer loop to handle rows
     {
-      
-        for (int j =1; j <=n - i; j++)         // Print numbers (repeat the number i times)
+
+        for (int j = 1; j <= n - i; j++) // Print numbers (repeat the number i times)
         {
-            cout <<"* ";
+            cout << "* ";
         }
-          for (int j = 0; j <= i; j++)         // Print spaces
+        for (int j = 0; j <= i; j++) // Print spaces
         {
             cout << " ";
         }
@@ -25,7 +25,7 @@ int main()
 }
 /*
 input: 4
-* * * *  
+* * * *
 * * *
 * *
 *

@@ -8,7 +8,8 @@ int main()
 
     for (int i = 1; i <= n; i++)
 
-    {       char ch='F';
+    {
+        char ch = 'F';
         for (int j = 1; j <= n; j++)
         {
             cout << ch << " ";
@@ -19,7 +20,7 @@ int main()
     return 0;
 }
 /*
-1 8 27 64 125 
+1 8 27 64 125
 1 8 27 64 125
 1 8 27 64 125
 1 8 27 64 125

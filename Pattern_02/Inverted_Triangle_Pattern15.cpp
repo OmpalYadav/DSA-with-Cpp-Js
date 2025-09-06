@@ -6,10 +6,10 @@ int main()
     int n;
     cin >> n;
 
-    for (int i = 1; i <=n; i++)     // Outer loop to handle rows
+    for (int i = 1; i <= n; i++) // Outer loop to handle rows
     {
-      
-      for (int j = 1; j <=n-i+1; j++)   // We can also use this method to print this type of Triangle Print row items
+
+        for (int j = 1; j <= n - i + 1; j++) // We can also use this method to print this type of Triangle Print row items
         {
             cout << i;
         }

@@ -10,14 +10,14 @@ int main()
     {
         for (int j = 1; j <= n; j++)
         {
-            cout << j*j << " ";
+            cout << j * j << " ";
         }
         cout << endl;
     }
     return 0;
 }
 /*
-1 4 9 16 
+1 4 9 16
 1 4 9 16
 1 4 9 16
 1 4 9 16

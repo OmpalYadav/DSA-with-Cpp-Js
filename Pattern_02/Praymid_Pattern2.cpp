@@ -6,31 +6,29 @@ int main()
     int n;
     cin >> n;
 
-    for (int i = 1; i <= n; i++) // rows
+    for (int i = 1; i <= n; i++)
     {
-        // spaces
         for (int j = 1; j <= n - i; j++)
         {
             cout << " ";
         }
-
-        // numbers
         for (int j = 1; j <= i; j++)
         {
-            cout << i;
+            cout << "*";
         }
-
+        for (int j = 1; j <= i - 1; j++)
+        {
+            cout << "*";
+        }
         cout << endl;
     }
-
     return 0;
 }
-/*
-   Output-:5
-    1
-   22
-  333
- 4444
-55555
 
-*/
+/*
+ *
+ ***
+ *****
+ *******
+ *********
+ */

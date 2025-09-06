@@ -6,16 +6,16 @@ int main()
     int n;
     cin >> n;
 
-    for (int i = 0; i < n; i++)     // Outer loop to handle rows
+    for (int i = 0; i < n; i++) // Outer loop to handle rows
     {
-        for (int j = 0; j <= i; j++)         // Print spaces
+        for (int j = 0; j <= i; j++) // Print spaces
         {
             cout << " ";
         }
 
-        for (int j =0; j < n - i; j++)         // Print numbers (repeat the number i times)
+        for (int j = 0; j < n - i; j++) // Print numbers (repeat the number i times)
         {
-            cout <<"*";
+            cout << "*";
         }
 
         cout << endl; // Move to the next line after each row
