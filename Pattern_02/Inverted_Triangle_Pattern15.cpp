@@ -9,9 +9,9 @@ int main()
     for (int i = 1; i <=n; i++)     // Outer loop to handle rows
     {
       
-      for (int j = 0; j <=n-i+1; j++)   // We can also use this method to print this type of Triangle Print row items
+      for (int j = 1; j <=n-i+1; j++)   // We can also use this method to print this type of Triangle Print row items
         {
-            cout << j;
+            cout << i;
         }
 
         cout << endl; // Move to the next line after each row
@@ -21,8 +21,8 @@ int main()
 }
 /*
 input: 4
-1234
-123
-12
-1
+1111
+222
+33
+4
 */

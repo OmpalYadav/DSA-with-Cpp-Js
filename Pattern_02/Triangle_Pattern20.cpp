@@ -1,34 +1,30 @@
 #include <iostream>
 using namespace std;
-
 int main()
 {
     int n;
     cin >> n;
 
-    for (int i = 1; i <= n; i++)   // rows
-    {
-        // spaces
+    for (int i = 1; i <= n; i++)
+    {   char ch='A';
         for (int j = 1; j <= n - i; j++)
         {
             cout << " ";
         }
-
-        // numbers
         for (int j = 1; j <= i; j++)
         {
-            cout << "*";
+            cout << ch;
+            ch++;
         }
-
         cout << endl;
     }
 
     return 0;
 }
 /*
-   Output-:4
-   *
-  **
- ***
-****
+output-:4
+   A
+  AB
+ ABC
+ABCD
 */
