@@ -25,9 +25,10 @@ Every day = new concepts, new problems, and consistent progress.
 | 2   | Loops & Control Statements | C++        | ✅ Completed |
 | 3   | 20+ Practice Questions     | C++        | ✅ Completed |
 | 4   | Pattern Printing           | C++        | ✅ Completed |
-| 5   | Functions                  | C++        | 🔜 Upcoming |
-| 6   | Arrays                     | C++        | 🔜 Upcoming |
-| 7   | Strings                    | JavaScript | 🔜 Upcoming |
+| 5   | PatternS 50+_Question Solve| C++        | ✅ Completed |
+| 6   | Functions                  | C++        | 🔜 Upcoming |
+| 7   | Arrays                     | C++        | 🔜 Upcoming |
+| 8   | Strings                    | JavaScript | 🔜 Upcoming |
 
 ⚡ *Log gets updated daily — track my journey here!*  
 
