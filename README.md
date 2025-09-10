@@ -69,11 +69,11 @@ DSA-with-Cpp-and-JavaScript/
 │   └── Arrays/
 └── README.md
 ````
+> 🔗 Each folder has its own **README** with explanations + practice logs.  
+> 👉 Example: [Introduction_01 →](./C++/Introduction_01)  
+> 👉 Example: [Patterns_02 →](./C++/Patterns_02)  
+> 👉 Example: [Bitwise_Operators_03 →](./C++/Bitwise_Operators_03)  
 
-> 🔗 Each folder has its own **README** with explanations + practice logs.
-> 👉 Example: [Patterns\_02 →](./C++/Introduction_01)
-> 👉 Example: [Patterns\_02 →](./C++/Patterns_02)
-> 👉 Example: [Patterns\_02 →](./C++/Bitwise_Operators_03)
 
 ---
 
