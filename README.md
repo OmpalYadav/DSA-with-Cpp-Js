@@ -26,6 +26,7 @@ Every day = new concepts, new problems, and consistent progress.
 | 3   | 20+ Practice Questions     | C++        | ✅ Completed |
 | 4   | Pattern Printing           | C++        | ✅ Completed |
 | 5   | PatternS 50+_Question Solve| C++        | ✅ Completed |
+| 6   | Bitwise Operators          | C++        | ✅ Completed |
 | 6   | Functions                  | C++        | 🔜 Upcoming |
 | 7   | Arrays                     | C++        | 🔜 Upcoming |
 | 8   | Strings                    | JavaScript | 🔜 Upcoming |
@@ -70,7 +71,9 @@ DSA-with-Cpp-and-JavaScript/
 ````
 
 > 🔗 Each folder has its own **README** with explanations + practice logs.
-> 👉 Example: [Patterns\_02 →](./C++/Patterns)
+> 👉 Example: [Patterns\_02 →](./C++/Introduction_01)
+> 👉 Example: [Patterns\_02 →](./C++/Patterns_02)
+> 👉 Example: [Patterns\_02 →](./C++/Bitwise_Operators_03)
 
 ---
 
