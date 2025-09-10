@@ -35,11 +35,10 @@ If you need any help or want explanations for specific patterns, feel free to co
 ---
 
 ## 🔗 Explore More
-
-👉 [Go back to **Introduction** →](../Introduction)
-(*Basics + loops + practice problems to start the journey*)
-
-👉 [Next: **Functions** (Coming Soon) →](../Functions)
+> 🔗 Each folder has its own **README** with explanations + practice logs.  
+> 👉 Example: [Introduction_01 →](./C++/Introduction_01)  
+> 👉 Example: [Patterns_02 →](./C++/Patterns_02)  
+> 👉 Example: [Bitwise_Operators_03 →](./C++/Bitwise_Operators_03)  
 
 ---
 
