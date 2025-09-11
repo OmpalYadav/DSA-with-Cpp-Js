@@ -24,7 +24,10 @@ This is the **foundation step** of my DSA journey — focusing on **logic buildi
 
 ## 🔗 Explore More
 
-👉 [Click here to check **Pattern\_02** →](../Pattern_02)
+> 🔗 Each folder has its own **README** with explanations + practice logs.  
+> 👉 Example: [Introduction_01 →](./C++/Introduction_01)  
+> 👉 Example: [Patterns_02 →](./C++/Patterns_02)  
+> 👉 Example: [Bitwise_Operators_03 →](./C++/Bitwise_Operators_03)  
 (*All pattern questions from basic to advanced covered for logic building*)
 
 ---
