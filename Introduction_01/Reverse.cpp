@@ -1,16 +1,17 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 // Print numbers from 1 to n
 
-int main(){
+int main()
+{
 
     int n;
-    cin>>n;
+    cin >> n;
 
-    for (int i = n; i>=1; i--)
+    for (int i = n; i >= 1; i--)
     {
-        cout<<i<<endl;
+        cout << i << endl;
     }
 
     return 0;

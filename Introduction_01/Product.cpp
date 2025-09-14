@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//Two numbers are given, find their Product.
+// Two numbers are given, find their Product.
 
 int main()
 {

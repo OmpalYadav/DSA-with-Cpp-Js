@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 // Variables are containers used to store data or values in memory locations.
@@ -8,21 +8,22 @@ using namespace std;
 // Variables are used to make programs flexible and readable by allowing us to work with data dynamically.
 // Variable names should be unique and descriptive to help users understand the purpose of the code.
 
-int main(){
+int main()
+{
 
-        int age=25;
-        float Pi=3.14;
-        char ch='A';
-        string str="Today";
-        double D=155456;
-        bool Bl= true;
+    int age = 25;
+    float Pi = 3.14;
+    char ch = 'A';
+    string str = "Today";
+    double D = 155456;
+    bool Bl = true;
 
-        cout<<age<<endl;
-        cout<<Pi<<endl;
-        cout<<ch<<endl;
-        cout<<str<<endl;
-        cout<<D<<endl;
-        cout<<Bl<<endl;
+    cout << age << endl;
+    cout << Pi << endl;
+    cout << ch << endl;
+    cout << str << endl;
+    cout << D << endl;
+    cout << Bl << endl;
 
     return 0;
 }
