@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
 
-//Square of n
-int main() {
+// Square of n
+int main()
+{
     int n;
     cout << "Enter a number: ";
     cin >> n;

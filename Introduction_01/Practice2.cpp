@@ -1,14 +1,14 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-//Print char from ‘Z’ to ‘A’ with the help of a for loop.
+// Print char from ‘Z’ to ‘A’ with the help of a for loop.
 
+int main()
+{
 
-int main(){
-
-    for (char i = 'Z'; i>='A'; i--)
+    for (char i = 'Z'; i >= 'A'; i--)
     {
-        cout<<i<<endl;
+        cout << i << endl;
     }
 
     return 0;

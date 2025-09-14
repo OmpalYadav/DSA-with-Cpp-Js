@@ -11,7 +11,7 @@ Logical operators
 Bitwise operators*/
 
 int main() {
-  int x = 100 + 50;
-  cout << x;
+  int n = 100 + 50;
+  cout << n;
   return 0;
 }
