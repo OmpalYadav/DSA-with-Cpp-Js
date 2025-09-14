@@ -7,7 +7,7 @@ int main() {
 
     int ans = 0;
     for(int i = n; i >= 1; i--) {
-        ans = ans * 10 + i;   // digits ko jodte jao
+        ans = ans * 10 + i;   
     }
 
     cout << ans << endl;
