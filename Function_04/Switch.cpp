@@ -6,7 +6,7 @@ using namespace std;
 */
 
 // We can say that we use nested loop
-int main(){
+int main() {
 
   char ch='1';
   int num=1;

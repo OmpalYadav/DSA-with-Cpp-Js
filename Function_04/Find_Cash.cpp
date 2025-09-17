@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Mene Yhn Divide uuse kiya kyu ki use pata chalta hai kitne notes lagenge, aur Modulus se pata chalta hai kitna paisa bacha hai.
+// Mene Yhn Divide uuse kiya kyu ki use pata chalta hai kitne note lagenge, aur Modulus se pata chalta hai kitna paisa bacha hai.
 int main()
 {
 
