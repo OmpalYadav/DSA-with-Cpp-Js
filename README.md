@@ -19,17 +19,17 @@ Every day = new concepts, new problems, and consistent progress.
 
 ## 📅 Daily Progress Log  
 
-| Day | Topic                      | Language   | Status      |
-| --- | -------------------------- | ---------- | ----------- |
+| Day | Topic                      | Language   | Status       |
+| --- | -------------------------- | ---------- | -----------  |
 | 1   | C++ Basics                 | C++        | ✅ Completed |
 | 2   | Loops & Control Statements | C++        | ✅ Completed |
 | 3   | 20+ Practice Questions     | C++        | ✅ Completed |
 | 4   | Pattern Printing           | C++        | ✅ Completed |
 | 5   | PatternS 50+_Question Solve| C++        | ✅ Completed |
 | 6   | Bitwise Operators          | C++        | ✅ Completed |
-| 6   | Functions                  | C++        | 🔜 Upcoming |
-| 7   | Arrays                     | C++        | 🔜 Upcoming |
-| 8   | Strings                    | JavaScript | 🔜 Upcoming |
+| 6   | Functions                  | C++        | ✅ Completed |
+| 7   | Arrays                     | C++        | 🔜 Upcoming  |
+| 8   | Strings                    | JavaScript | 🔜 Upcoming  |
 
 ⚡ *Log gets updated daily — track my journey here!*  
 
