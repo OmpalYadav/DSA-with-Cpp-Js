@@ -69,10 +69,14 @@ DSA-with-Cpp-and-JavaScript/
 │   └── Arrays/
 └── README.md
 ````
-> 🔗 Each folder has its own **README** with explanations + practice logs.  
-> 👉 Example: [Introduction_01 →](./C++/Introduction_01)  
-> 👉 Example: [Patterns_02 →](./C++/Patterns_02)  
-> 👉 Example: [Bitwise_Operators_03 →](./C++/Bitwise_Operators_03)  
+Each folder has its own **README** with explanations and practice logs:
+
+* 👉 [Introduction\_01 →](./C++/Introduction_01) – Basics & Loops
+* 👉 [Patterns\_02 →](./C++/Patterns_02) – Pattern problems from basic to advanced
+* 👉 [Bitwise\_Operators\_03 →](./C++/Bitwise_Operators_03) – Bitwise operations & practice
+* 👉 [Functions\_04 →](./C++/Functions_04) – All function topics with practice
+
+(*All topics are structured to help build **strong logic and problem-solving skills**.*)
 
 
 ---
