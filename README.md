@@ -75,6 +75,8 @@ Each folder has its own **README** with explanations and practice logs:
 * 👉 [Patterns\_02 →](./C++/Patterns_02) – Pattern problems from basic to advanced
 * 👉 [Bitwise\_Operators\_03 →](./C++/Bitwise_Operators_03) – Bitwise operations & practice
 * 👉 [Functions\_04 →](./C++/Functions_04) – All function topics with practice
+* 👉 [Array\_05 →](./C++/Array_05) – All An Array topics with practice
+
 
 (*All topics are structured to help build **strong logic and problem-solving skills**.*)
 
