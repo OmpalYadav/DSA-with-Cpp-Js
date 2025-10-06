@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int n, i, last, prev, curr;
+    int n, last, prev, curr;
     cout << "Enter the number: ";
     cin >> n;
 
@@ -19,7 +19,7 @@ int main()
         curr = 1;
     }
 
-    for (i = 2; i <= n; i++)
+    for (int i = 2; i <= n; i++)
     {
         curr = last + prev;
         last = prev;

@@ -3,10 +3,7 @@ using namespace std;
 
 //Fibonacci Series upto nth term
 int main() {
-    int n;
-    cout << "Enter how many terms you want: ";
-    cin >> n;
-
+    int n=5;
     int a = 0, b = 1;
 
     cout << "Fibonacci Series: ";
