@@ -28,7 +28,7 @@ Every day = new concepts, new problems, and consistent progress.
 | 5   | PatternS 50+_Question Solve| C++        | ✅ Completed |
 | 6   | Bitwise Operators          | C++        | ✅ Completed |
 | 6   | Functions                  | C++        | ✅ Completed |
-| 7   | Arrays                     | C++        | 🔜 Upcoming  |
+| 7   | Arrays                     | C++        | ✅ Completed |
 | 8   | Strings                    | JavaScript | 🔜 Upcoming  |
 
 ⚡ *Log gets updated daily — track my journey here!*  
