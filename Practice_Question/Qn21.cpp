@@ -7,14 +7,13 @@ int main(){
     cin>>ch;
     if (ch>='A' && ch<='Z')
     {
-        cout<<"Character Uppercase"<<endl;
+        cout<<ch<<" is Uppercase Character"<<endl;
     }
      else if (ch>='a' && ch<='z')
     {
-        cout<<"Character Lowercase"<<endl;
+        cout<<ch<<" is Lowercase Character"<<endl;
     }else{
-        cout<<"Digit is Number"<<endl;
+        cout<<ch<<" is a Digit Number"<<endl;
     }
-
     return 0;
 }
