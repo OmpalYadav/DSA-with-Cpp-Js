@@ -5,7 +5,7 @@ int main()
 {
     int n;
     cin >> n;
-    // We can aslo use this method to prints thre type of patterns
+    // We can aslo use this method to prints there type of patterns
 
     int i = 1;
     while (i <= n)
