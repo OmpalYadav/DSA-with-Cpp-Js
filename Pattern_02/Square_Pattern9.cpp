@@ -13,8 +13,8 @@ int main()
         while (j <= n)
         {   char ch='A'+n-j;
             cout << ch << " ";
-             ch++;
-            j++;
+             ch--;
+             j++;
            
         }
         cout << endl;
