@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-void Triangle_Pattern(int n) {
+int Triangle_Pattern(int n) {
     for (int i = 1; i <= n; i++) {
         for (int j = i - 1; j >= 0; j--) {
             cout << char('A' + n-i)<<" ";
