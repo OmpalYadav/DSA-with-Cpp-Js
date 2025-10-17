@@ -3,8 +3,10 @@ using namespace std;
 
 void Triangle_Pattern(int n) {
     for (int i = 1; i <= n; i++) {
-        for (int j = i - 1; j >= 0; j--) {
-            cout << char('A' + n-i)<<" ";
+        char ch='A'+n-i;
+        for (int j = 1; j <= i; j++) {
+            cout <<ch<<" ";
+            ch++;
         }
         cout << endl;
     }
