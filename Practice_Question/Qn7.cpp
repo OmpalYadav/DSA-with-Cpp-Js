@@ -5,6 +5,8 @@ using namespace std;
 int main()
 {
     // Modular Exponentiation
+    // 🔢 Question: Given three integers x, n, m — calculate (x^n) % m efficient0ly.
+    // ✅ Task: Perform Modular Exponentiation using Binary Exponentiation (O(log n) time)
 
     int x, n, m;
     cin >> x >> n >> m;

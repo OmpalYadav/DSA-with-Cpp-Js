@@ -10,8 +10,8 @@ int main(){
         cout<<"You Can Vote"<<endl;
     }else{
         cout<<"You can not vote"<<endl;
-    }  
-    //Armstrong number
+    } 
+//A number is called an Armstrong number if the sum of cubes of its digits is equal to the number itself. (For 3-digit numbers)  
 int n;
 cin>>n;
 

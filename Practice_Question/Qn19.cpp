@@ -11,9 +11,9 @@ int main()
 
     for (int i = 1; i <= n; i++)
     {
-        sum = sum + (i * i*i);
+        sum = sum + (i * i * i);
     }
-    cout<<"Cube "<<n*n*n<<endl;
+    cout << "Cube " << n * n * n << endl;
     cout << "Sum of Cube of first " << n << " natural numbers is: " << sum;
     return 0;
 }

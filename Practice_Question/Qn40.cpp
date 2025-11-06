@@ -6,7 +6,7 @@ int Square_Pattern(int n){
     {
         for (int j = 1; j <=n; j++)
         {
-            cout<<j*j<<" ";
+            cout<<i*i<<" ";
         }cout<<endl;
     }
 }

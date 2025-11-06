@@ -3,6 +3,11 @@ using namespace std;
 
 int main()
 {
+// 🔢 Question: Given a year 'n', determine whether it is a leap year or not.
+// ✅ Task: Apply leap year rules:
+// - If divisible by 400 → Leap Year
+// - Else if divisible by 4 but not by 100 → Leap Year
+// - Else → Not a Leap Year
     int n;
     cin >> n;
 

@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
-// Given a non-negative integer n. You have to check if it is a power of 2 or not.
+// Q. Write a C++ program to check whether a given non-negative integer is a power of 2.
+//    Accept an integer input `n` from the user.
+//    If `n` is a power of 2, display "True"; otherwise, display "False".
+
 int main()
 {
     int n;

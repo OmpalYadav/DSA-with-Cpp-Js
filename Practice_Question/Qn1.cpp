@@ -13,8 +13,10 @@ int main(){
         cout<<i<<" ";
     }cout<<endl;
     
+    int n;
+    cin>>n;
     char ch='A';
-    for (int i = 0; i < 26; i++)
+    for (int i = 0; i < n; i++)
     {
         cout<<ch<<" ";
         ch++;
